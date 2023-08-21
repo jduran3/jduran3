@@ -23,7 +23,7 @@ Aspiring Data Scientist/Data Analyst skilled in data wrangling, analysis, visual
 <br>**Description:**  Great course on Data Engineering (very practical), highly recommended!
 
 #### [Springboard](https://github.com/jduran3/Springboard)
-**Tools/Skills:**  Python, SQL, Supervised Learning, Unsupervised Learning
+**Tools/Skills:**  Python, SQL, EDA, Git, Visualization, Supervised Learning, Unsupervised Learning
 <br>**Description:**  Course exercises from Springboard Data Science bootcamp
 
 Feel free to reach me at [joduran79@gmail.com](mailto:joduran79@gmail.com)
