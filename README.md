@@ -26,6 +26,8 @@ Aspiring Data Scientist/Data Analyst skilled in data wrangling, analysis, visual
 **Tools/Skills:**  Python, SQL, EDA, Git, Visualization, Supervised Learning, Unsupervised Learning
 <br>**Description:**  Course exercises from Springboard Data Science bootcamp
 
+----
+
 Feel free to reach me at [joduran79@gmail.com](mailto:joduran79@gmail.com)
 
 **[Linked In](https://www.linkedin.com/in/jorge-duran-p/)**<br>
