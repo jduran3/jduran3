@@ -18,6 +18,10 @@ Aspiring Data Scientist/Data Analyst skilled in data wrangling, analysis, visual
 **Tools/Skills:**  Python, Scikit-learn, Logistic Regression, Random Forest, XGBoost
 <br>**Description:**  Developed EDA and visualizations to derive insights on what customer's characteristics were good predictive indicators of higher income using US Census data. Built predictive models with 83% precision. (Capstone 2 from Springboard)
 
+#### [Pet Supply Store eCommerce Analysis](https://github.com/jduran3/Pet-Supply-Store-eCommerce-Analysis)
+**Tools/Skills:**  Python, Jupyter Notebook, PostgreSQL
+<br>**Description:**  Case study for analysis of Pet Supply Store ecommerce.
+
 #### [Data Engineering Zoomcamp](https://github.com/jduran3/data-engineering-zoomcamp)
 **Tools/Skills:**  Docker, Terraform, Prefect, GCS, BigQuery, dbt, Spark
 <br>**Description:**  Great course on Data Engineering (very practical), highly recommended!
